@@ -160,6 +160,35 @@ a.active,a:hover{
     padding-right: 3%;
 }
 
+
 .space2{
     margin-top: 1%;
+}
+
+
+.hrSpace{
+    margin-top: 5%;
+}
+
+
+.footerr{
+    margin-top: 5%;
+    margin-bottom: 5%;
+    text-align: center;
+    
+
+    
+}
+
+.footerr2{
+    margin-top: 5%;
+    margin-bottom: 5%;
+    text-align: center;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+.footerT{
+    padding-top: 2%;
 }
